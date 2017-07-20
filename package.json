@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      "crazy-case",
+      "/home/phantombit/dev/poligon/crazy-case"
+    ]
+  ],
+  "_from": "crazy-case@latest",
+  "_id": "crazy-case@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/crazy-case",
+  "_nodeVersion": "5.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/crazy-case-0.0.1.tgz_1456420173679_0.46834962419234216"
+  },
+  "_npmUser": {
+    "email": "Radomir.wojtera@gmail.com",
+    "name": "tiriana"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "crazy-case",
+    "raw": "crazy-case",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/crazy-case/-/crazy-case-0.0.1.tgz",
+  "_shasum": "c42ca32cac97baed51a7b74cad88772cc1b08fa0",
+  "_shrinkwrap": null,
+  "_spec": "crazy-case",
+  "_where": "/home/phantombit/dev/poligon/crazy-case",
+  "author": {
+    "email": "radomir.wojtera@gmail.com",
+    "name": "Radomir Wojtera"
+  },
+  "bugs": {
+    "url": "https://github.com/tiriana/crazy-case/issues"
+  },
+  "dependencies": {},
+  "description": "cHaNgEs sTrInG CaSe iN A CrAzY WaY",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c42ca32cac97baed51a7b74cad88772cc1b08fa0",
+    "tarball": "https://registry.npmjs.org/crazy-case/-/crazy-case-0.0.1.tgz"
+  },
+  "gitHead": "2d51512b758ab869812153228d69bcd67c76d0ae",
+  "homepage": "https://github.com/tiriana/crazy-case#readme",
+  "keywords": [
+    "amanda99",
+    "case",
+    "crazy",
+    "fun",
+    "pokemon",
+    "poklikash",
+    "string"
+  ],
+  "license": "ISC",
+  "main": "crazy-case.js",
+  "maintainers": [
+    {
+      "name": "tiriana",
+      "email": "Radomir.wojtera@gmail.com"
+    }
+  ],
+  "name": "crazy-case",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiriana/crazy-case.git"
+  },
+  "scripts": {
+    "test": "echo ThErE ArE No tEsTs"
+  },
+  "version": "0.0.1"
+}
